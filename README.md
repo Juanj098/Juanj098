@@ -1,22 +1,25 @@
+<div align='center'>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 <h1 align="center">Hi 👋, I'm Juan Gerardi</h1>
-<h3 align="center">Estudiante de Ingeniería en Ciencias y Sistemas | USAC 🇬🇹</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanj098&theme=radical&column=7" alt="juanj098" /></a>
-</p>
+<h3 align="center">
+  Estudiante de Ingeniería en Ciencias y Sistemas | USAC 🇬🇹 <br/>
+</h3>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en la **Universidad de San Carlos de Guatemala**.
-- ☁️ Entusiasta de la computación en la nube y el despliegue de soluciones escalables.
-- 🚀 Actualmente enfocado en mejorar mis habilidades en desarrollo Backend y Arquitectura.
+- 🎓 Estudiante de Ingeniería en la **Universidad de San Carlos de Guatemala (USAC)**.
+- 📚 Aprendiz constante, orientado a buenas prácticas y fundamentos sólidos.
+
+---
 
 ### 🏆 Certificaciones
+
 <p align="left">
   <a href="https://www.credly.com/badges/1fc8c918-0f64-4e18-bbca-2bb69a06d983" target="_blank">
-    <img src="https://images.credly.com/images/00634f23-b408-421b-8048-f94ad30384d4/amazon-web-services-cloud-practitioner-practioner.png" width="120" height="120" alt="AWS Certified">
+    <img src="https://images.credly.com/images/00634f23-b408-421b-8048-f94ad30384d4/amazon-web-services-cloud-practitioner-practioner.png" width="120" height="120" alt="AWS Certified Cloud Practitioner">
   </a>
 </p>
 
@@ -24,25 +27,55 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-| Categoría | Lenguajes y Frameworks |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+</div>
 
 ---
-
-### 📊 Mis Estadísticas
-<p align="center">
-<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="Stats de Juan" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanj098&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanj098&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanj098&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 ---
 
-### 🤝 Conectemos
-<p align="left">
-<a href="https://linkedin.com/in/juan-gerardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan gerardi" height="30" width="40" /></a>
-<a href="https://twitter.com/jgeraardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jgeraardi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jgeraardi?igsh=MWhwejFkY2FuNXBhNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jgeraardi" height="30" width="40" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/juanj098/juanj098/output/snake.svg" alt="Snake animation" />
+
+---
+<div align="center">
+  <a href="https://linkedin.com/in/juan-gerardi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/jgeraardi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/jgeraardi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
